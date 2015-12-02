@@ -1,0 +1,36 @@
+#admin-users-container {
+    margin-left:auto;
+    margin-right:auto;
+    width:1140px;
+    height:750px;
+    padding-top:7px;
+    padding-left:20px;
+    padding-right:20px;
+    text-align:left;
+    background-color:#FFFFFF;
+    margin-top:-2px;
+    -webkit-background-clip: border-box;
+    -webkit-background-origin: padding-box;
+    -webkit-background-size: auto;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.2) 2px 0px 1px -1px, rgba(0, 0, 0, 0.2) -2px 0px 1px -1px;
+    font-size:18px;
+    color:#737373;  
+    font-family: "Segoe UI", serif;
+    font-size:13px;
+}
+
+#admin-users-container table {
+    margin-left:auto;
+    margin-right:auto;
+    width:1100px;
+}
+
+#admin-users-container table th {
+    font-size:15px;
+    text-align:center;
+}
+
+#admin-users-container table td {
+    font-size:13px;
+    text-align:center;
+}

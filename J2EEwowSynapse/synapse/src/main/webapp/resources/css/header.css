@@ -1,0 +1,65 @@
+#header-container {
+	margin-left:auto;
+	margin-right:auto;
+	width:1140px;
+	height:28px;
+}
+
+#header-container a {
+	text-decoration:none;
+	font-size:15px;
+	color:#404040;
+	padding-top:12px;
+	font-family:'Segoe UI', sans-serif;
+}
+
+#header-container a:hover {
+	color:#FF0000;
+}
+
+#header-logo {
+	float:left;
+	padding-top:4px;
+	margin-left:10px;
+	width:170px;	
+}
+
+#header-membership {
+	float:left;
+	width:960px;
+	height:28px;
+	text-align:right;
+}
+
+#header-membership-signin {
+	float:right;
+	width:100px;
+}
+
+#header-membership-subscribe {
+	float:right;
+	width:100px;
+}
+
+#header-membership-account {
+	float:left;
+	width:960px;
+	height:28px;
+	font-size:13px;
+	color:#404040;
+	padding-top:12px;
+	font-family:'Segoe UI', sans-serif;
+	text-align:right;
+}
+
+#header-membership-account a {
+	font-size:13px;
+}
+
+#header-membership-account a:hover {
+	text-decoration:underline;
+}
+
+.in {
+	float:left;
+}

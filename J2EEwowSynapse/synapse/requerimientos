@@ -1,0 +1,27 @@
+criterios de puntuación:
+- - ------- ---------------------------------
+
+grupo: 1
+
+
+optimizacion DAO: 2
+	metodos redundantes
+	
+respeto de principio SOLID
+
+respect Design: 2
+	capas y capas
+	
+AOP /DI :
+	repositorios no se qué
+	
+covertura de tests: 3
+	con los nombres como a él le gusta
+	
+clean code: 2
+	según él vea
+	
+Realizacion: 6
+
+
+TDD: (1)

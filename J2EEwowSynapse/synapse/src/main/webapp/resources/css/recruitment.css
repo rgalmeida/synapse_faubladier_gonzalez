@@ -1,0 +1,53 @@
+#recruitment-container {
+	float:left;
+	width:250px;
+	height:500px;
+	margin-left:20px;
+}
+
+#recruitment-container h3 {
+	width:250px;
+	background-image:url('../img/line.png');
+	text-align:center;
+}
+
+#recruitment-container h3 span {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	width:120px;
+	positions:absolute;
+	background-color:#FFFFFF;
+	display:block;
+	font-family:"Segoe UI", sans-serif;
+	font-weight:600;
+	font-size:18px;
+	color:#c80000;
+}
+
+.clazz {
+	float:left;
+	width:75px;
+	height:85px;
+	margin-right:10px;
+}
+
+.spec {
+	float:left;
+	width:40px;
+	height:60px;
+	padding-top:25px;
+}
+
+.spec img {
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+}
+
+.full {
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	filter: grayscale(100%);
+}

@@ -1,0 +1,153 @@
+#user-container {
+	margin-left:auto;
+	margin-right:auto;
+	width:1140px;
+	height:750px;
+	padding-top:7px;
+	padding-left:20px;
+	padding-right:20px;
+	text-align:left;
+	background-color:#FFFFFF;
+	margin-top:-2px;
+	-webkit-background-clip: border-box;
+	-webkit-background-origin: padding-box;
+	-webkit-background-size: auto;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 2px 0px 1px -1px, rgba(0, 0, 0, 0.2) -2px 0px 1px -1px;
+	font-size:18px;
+	color:#737373;	
+	font-family: "Segoe UI", serif;
+}
+
+#user-profile-info {
+	float:left;
+	margin-left:10px;
+	margin-bottom:25px;
+	width:800px;
+}
+
+#user-profile {
+	margin-left:auto;
+	margin-right:auto;
+	width:800px;
+	height:100%;
+	margin-top:15px;
+}
+
+#user-profile h3 {
+	float:left;
+	width:800px;
+	height:25px;
+	color:#c80000;
+	font-size:18px;
+	margin:0;
+}
+
+.user-profile-avatar {
+	float:left;
+    width:125px;
+    height:450px;
+    border-right: 1px solid #dddddd;
+    text-align:center;
+}
+
+.user-profile-avatar img {
+	border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    margin-bottom:5px;
+}
+
+#user-profile-form {
+	float:left;
+	width:650px;
+}
+
+.user-profile-info {
+	float:left;
+	width:650px;
+}
+
+.user-label {
+	float:left;
+	padding-left:25px;
+	width:250px;
+	height:45px;
+	color:#505050;
+	font-size:16px;
+}
+
+.user-field {
+	float:left;
+	width:350px;
+	height:45px;
+}
+
+.user-field input[type=text], input[type=password] {
+    float:left;
+    width:300px;
+    height:25px;
+    border: solid 1px #c5c5c5;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size:14px;
+    font-weight:400;
+    font-family:"Arial";
+    text-align:left;
+    padding:5px;
+    color:#999999;
+}
+
+.user-field select {
+	float:left;
+    width:311px;
+    height:38px;
+    border: solid 1px #c5c5c5;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size:14px;
+    font-weight:400;
+    font-family:"Arial";
+    text-align:left;
+    padding:5px;
+    color:#999999;
+}
+
+.user-profile-action {
+	float:left;
+	width:600px;
+	text-align:right;
+}
+
+.btn {
+    height:30px;
+    font-family:"Segoe UI", serif;
+    font-size:12px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color:#C80000;
+    color: #FFFFFF;
+    font-weight:600;
+    border:0;
+}
+
+.btn-small {
+    height:25px;
+    font-family:"Segoe UI", serif;
+    font-size:12px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color:#C80000;
+    color: #FFFFFF;
+    font-weight:600;
+    border:0;
+}
+

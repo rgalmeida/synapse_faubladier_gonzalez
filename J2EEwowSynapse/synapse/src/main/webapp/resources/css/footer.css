@@ -1,0 +1,69 @@
+#footer-container {
+	margin-left:auto;
+	margin-right:auto;
+	width:1140px;
+	height:120px;
+	padding-left:20px;
+	padding-right:20px;
+	text-align:center;
+	background-color : #FAFAFA;
+	margin-top:-2px;
+	-webkit-background-clip: border-box;
+	-webkit-background-origin: padding-box;
+	-webkit-background-size: auto;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 2px 0px 1px -1px, rgba(0, 0, 0, 0.2) -2px 0px 1px -1px;
+	font-size:18px;
+	color:#737373;	
+	border-top:1px solid #EEEEEE;
+}
+
+#footer-container h2 {
+	margin-left:auto;
+	margin-right:auto;
+	height:25px;
+	color:#c80000;
+	font-family:"Segoe UI", sans-serif;
+	font-weight:normal;
+	font-size:15px;
+}
+
+#footer-social {
+	margin-left:auto;
+	margin-right:auto;
+	width:330px;
+	height:45px;
+	text-align:center;
+}
+
+#footer-social div {
+	float:left;
+	width:150px;
+	height:27px;
+	padding:2px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	margin-left:5px;
+}
+
+.facebook {
+	background-color : #4a6eaa;
+	border: 1px solid #DDDDDD;
+}
+
+.twitter {
+	background-color : #3abadd;
+	border: 1px solid #DDDDDD;
+}
+
+.youtube {
+	background-color : #FFFFFF;
+	border: 1px solid #DDDDDD;
+}
+
+#footer-copyright {
+	font-family:"Segoe UI", sans-serif;
+	font-size:12px;
+	color:#c80000;
+}
